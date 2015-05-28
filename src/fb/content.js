@@ -4,7 +4,7 @@
 
 // Map Variables
 	L.mapbox.accessToken = 'pk.eyJ1Ijoic2hyYXZhbjE5OTEiLCJhIjoiMTdBSHFPbyJ9.TOW1Gw15YndOtIHl3_oiKw';
-	var map_id = "shravan1991.llfc5bka";
+	var map_id = "shravan1991.l2m4d53p";
 	// Map object
 	var map = null;
 	// Lines between points drawn on map
